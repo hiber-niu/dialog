@@ -24,3 +24,4 @@ dialog system resources
 -  RNNLG
   - 项目地址: https://github.com/shawnwun/RNNLG 
   - 对应论文: Semantically Conditioned LSTM-based Natural Language Generation for Spoken Dialogue Systems
+  
